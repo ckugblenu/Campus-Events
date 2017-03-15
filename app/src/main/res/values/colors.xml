@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oldcolorPrimary">#3F51B5</color>
+    <color name="oldcolorPrimaryDark">#303F9F</color>
+    <color name="oldcolorAccent">#FF4081</color>
+
+    <color name="colorPrimary">#64DD17</color>
+    <color name="colorPrimaryDark">#8BC34A</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--light green-->
+    <color name="md_light_green_50">#F1F8E9</color>
+    <color name="md_light_green_100">#DCEDC8</color>
+    <color name="md_light_green_200">#C5E1A5</color>
+    <color name="md_light_green_300">#AED581</color>
+    <color name="md_light_green_400">#9CCC65</color>
+    <color name="md_light_green_500">#8BC34A</color>
+    <color name="md_light_green_600">#7CB342</color>
+    <color name="md_light_green_700">#689F38</color>
+    <color name="md_light_green_800">#558B2F</color>
+    <color name="md_light_green_900">#33691E</color>
+    <color name="md_light_green_A100">#CCFF90</color>
+    <color name="md_light_green_A200">#B2FF59</color>
+    <color name="md_light_green_A400">#76FF03</color>
+    <color name="md_light_green_A700">#64DD17</color>
+
+    <color name="goingColor">#39c768</color>
+    <color name="interestedColor">#fac800</color>
+    <color name="notGoingColor">#f80035</color>
+
+    <color name="circleBackground">#909090</color>
+    <color name="black">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="loginButton">#FFFFFF</color>
+    <color name="signUpButton">#FFFFFF</color>
+    <color name="homeLoginButton">#FF355B</color>
+
+
+</resources>
